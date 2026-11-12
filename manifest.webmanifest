@@ -1,0 +1,16 @@
+{
+  "name": "BlockForge",
+  "short_name": "BlockForge",
+  "description": "Make Minecraft models, mods, packs and maps with Claude. Your PC does the work; your phone keeps up.",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#15161a",
+  "theme_color": "#15161a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
